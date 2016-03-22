@@ -1,0 +1,28 @@
+name: danrusso
+favicon: null
+layout_spectrum: 0.10815845942124724
+typography_spectrum: 0.03245916380546987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.20142648462206125
+  lightness: 0.5396946349646896
+  saturation: 0.632037692470476
+  rhythmicContrast: 0.7269326958339661
+purpose: []

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[danrusso]]></title>
+        <description><![CDATA[danrusso]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 14:13:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Looking forward to creating a new and dynamic site!  Unfortunately my time is limited.  However I will be coming back super strong with a site that will contain Graphic Design from Print, Broadcast and Web, as well as great 3D and composited animations from After Effects and Viz Artist.</p>]]></description>
+            <link>undefined410d8e6a-a4f5-4a6c-b25b-02d6a6b36a2c/index.html</link>
+            <guid isPermaLink="false">410d8e6a-a4f5-4a6c-b25b-02d6a6b36a2c</guid>
+            <pubDate>Tue, 22 Mar 2016 14:12:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
